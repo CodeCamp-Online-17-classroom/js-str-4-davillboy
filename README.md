@@ -10,3 +10,5 @@ console.log(containsSensitiveWords(text1)); //true
 let text2 = "This is a sample text without any sensitive words.";
 console.log(containsSensitiveWords(text2)); //false
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
